@@ -1,0 +1,24 @@
+# Gameboard Constants
+WIDTH = 600
+HEIGHT = 600
+
+ROWS = 3
+COLS = 3
+
+TILE_SIZE = WIDTH // COLS
+
+LINE_WIDTH = 15
+CIRCLE_WIDTH = 15
+X_WIDTH = 20
+
+RADIUS = TILE_SIZE // 4
+
+OFFSET = 50
+
+# Color Constants
+BG_COLOR = (28, 170, 156)
+LINE_COLOR = (23, 145, 135)
+CIRCLE_COLOR = (239, 231, 200)
+X_COLOR = (66, 66, 66)
+
+
